@@ -1,0 +1,22 @@
+.common {
+    font-family: Garamond, Verdana,sans-serif;
+    font-size: 36px;
+    text-align: center;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
+    height: auto;
+    width: 500px;
+}
+
+.common.h2{
+    font-size: 24px; 
+}
+
+ul{
+    font-size: 22px;
+}
